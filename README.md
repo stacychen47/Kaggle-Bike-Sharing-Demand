@@ -9,4 +9,4 @@
 6. Submit
 
 ## Performace
-＃Score :　0.42959
+Score :　0.42959
