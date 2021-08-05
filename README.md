@@ -1,12 +1,12 @@
 # Kaggle-Bike-Sharing-Demand
 
 ## Process
-◆ Import libraries and data
-◆ Information and description
-◆ Plot possible variables
-◆ Combine columns
-◆ Feature Engineering
-◆ Submit
+1. Import libraries and data
+2. Information and description
+3. Plot possible variables
+4. Combine columns
+5. Feature Engineering
+6. Submit
 
 ## Performace
 ＃Score :　0.42959
